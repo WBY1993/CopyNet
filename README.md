@@ -1,0 +1,2 @@
+# CopyNet
+Tensorflow CopyNet
